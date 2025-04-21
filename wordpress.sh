@@ -32,5 +32,5 @@ sudo systemctl enable mysql
 sudo ufw allow 3306
 #if port 80 is not allow
 sudo ufw allow 80
-echo "Sat Shiri Akal!!"
+echo "Wordpress is successfully installed!!"
 
